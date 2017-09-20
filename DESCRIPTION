@@ -1,5 +1,5 @@
 Package: EnvCpt
-Type: Package
+Type: Package 
 Title: Detection of Structural Changes in Climate and Environment Time Series
 Version: 0.1.2
 Date: 2016-10-11
